@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "angry-purple-tiger"
-version = "0.1.0"
+version = "0.1.2"
 description = "Animal-based hash digests for humans"
 authors = ["Evan Diewald <evandiewald@gmail.com>"]
 readme = "README.md"
@@ -12,7 +12,7 @@ include = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.7"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
