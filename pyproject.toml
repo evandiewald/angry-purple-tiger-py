@@ -3,6 +3,13 @@ name = "angry-purple-tiger"
 version = "0.1.0"
 description = "Animal-based hash digests for humans"
 authors = ["Evan Diewald <evandiewald@gmail.com>"]
+readme = "README.md"
+license = "Apache-2.0"
+homepage = "https://github.com/evandiewald/angry-purple-tiger-py"
+repository = "https://github.com/evandiewald/angry-purple-tiger-py"
+include = [
+    "LICENSE",
+]
 
 [tool.poetry.dependencies]
 python = "^3.10"
