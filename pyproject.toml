@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "angry-purple-tiger"
-version = "0.1.2"
+version = "0.2.0"
 description = "Animal-based hash digests for humans"
 authors = ["Evan Diewald <evandiewald@gmail.com>"]
 readme = "README.md"

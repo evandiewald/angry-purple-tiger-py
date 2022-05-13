@@ -15,7 +15,7 @@ This is a Python port of Helium's original [JavaScript implementation](https://g
 ## Usage
 
 ```python
-from angry_purple_tiger.angry_purple_tiger import animal_hash
+from angry_purple_tiger import animal_hash
 
 # input strings (like wallet addresses) must be encoded
 name = animal_hash('112CuoXo7WCcp6GGwDNBo6H5nKXGH45UNJ39iEefdv2mwmnwdFt8'.encode())
