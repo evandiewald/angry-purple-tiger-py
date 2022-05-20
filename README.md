@@ -1,5 +1,7 @@
 # angry-purple-tiger
 
+[![PyPI version](https://badge.fury.io/py/angry-purple-tiger.svg)](https://badge.fury.io/py/angry-purple-tiger) ![Downloads](https://img.shields.io/pypi/dw/angry-purple-tiger)
+
 Animal-based digests for humans... in Python.
 
 ## Overview
